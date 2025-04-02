@@ -62,3 +62,13 @@ Contributions are welcome! Please follow these guidelines:
 5) Open a pull request.
 
 For any major changes, please open an issue first to discuss what you would like to change.
+
+# License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+# Contact
+For any questions or further information, please contact:
+
+1) GitHub: princu1999
+
+2) Email: m24csa024@iitj.ac.in
