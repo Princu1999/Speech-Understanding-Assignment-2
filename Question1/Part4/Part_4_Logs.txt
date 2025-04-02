@@ -1,0 +1,16 @@
+Starting training of the combined pipeline...
+Epoch [1/5], Batch Loss: 15.7429
+Epoch [2/5], Batch Loss: 10.7053
+Epoch [3/5], Batch Loss: 6.3512
+Epoch [4/5], Batch Loss: 4.6538
+Epoch [5/5], Batch Loss: 1.5509
+
+Training completed. Setting model to eval mode...
+
+Training completed. Evaluating on test set...
+
+Evaluation on Test Set:
+Separation Metrics -> SDR: 8.12 dB, SIR: 13.53 dB, SAR: 10.91 dB, PESQ: 2.98
+Speaker Identification Rank-1 Accuracy (Combined Model): 77.65%
+Speaker Identification Rank-1 Accuracy (Pre-Trained Model): 57.03%
+Speaker Identification Rank-1 Accuracy (Pre-Trained Model): 76.01%
