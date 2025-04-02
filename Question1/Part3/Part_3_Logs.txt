@@ -1,0 +1,20 @@
+
+Total speakers: 118; Training speakers: 50; Testing speakers: 50
+Created 100 training pairs and 50 testing pairs.
+Train pairs saved to /iitjhome/m24csa024/myenv/train_pairs.pkl
+Test pairs saved to /iitjhome/m24csa024/myenv/test_pairs.pkl
+
+Loaded pre-trained SepFormer for separation.
+
+Separation Metrics on Test Set:
+SDR: 7.67 dB
+SIR: 12.87 dB
+SAR: 10.66 dB
+PESQ: 2.46
+
+Loaded speaker identification models.
+Created reference embeddings for 50 test speakers.
+
+Speaker Identification Rank-1 Accuracy:
+Pre-trained model: 56.82%
+Fine-tuned model: 74.11%
