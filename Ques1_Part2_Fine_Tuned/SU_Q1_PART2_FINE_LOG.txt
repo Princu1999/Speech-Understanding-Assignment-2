@@ -1,0 +1,13 @@
+Using device: cuda
+Loaded 15151 samples from 100 speakers
+Epoch 1 Loss: 19.6618
+Epoch 2 Loss: 13.2345
+Epoch 3 Loss: 10.1349
+Epoch 4 Loss: 4.9845
+Epoch 5 Loss: 2.5419
+Finetuned model saved to /iitjhome/m24csa024/myenv/finetuned_speaker_model2.pth
+
+Fine-tuned Model Evaluation on VoxCeleb1:
+EER: 9.08%
+TAR@1%FAR: 78.84%
+Identification Accuracy: 84.99%
