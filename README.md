@@ -27,6 +27,7 @@ pip install -r requirements.txt
 # Example of running a script from Part4
 python Part4/Part_4.py
 ````
+````
 # File Structure
 
 .
@@ -41,3 +42,18 @@ python Part4/Part_4.py
 └── Part4
     ├── Part_4.py
     └── Part_4_Logs.txt
+````
+# Contributing
+Contributions are welcome! Please follow these guidelines:
+
+Fork the repository.
+
+Create a new branch (git checkout -b feature/YourFeature).
+
+Make your changes and commit them (git commit -m 'Add some feature').
+
+Push to the branch (git push origin feature/YourFeature).
+
+Open a pull request.
+
+For any major changes, please open an issue first to discuss what you would like to change.
