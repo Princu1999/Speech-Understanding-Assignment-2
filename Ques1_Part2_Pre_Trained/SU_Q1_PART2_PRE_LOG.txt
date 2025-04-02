@@ -1,0 +1,11 @@
+Using device: cuda
+You are using a model of type wavlm to instantiate a model of type wav2vec2. This is not supported for all configurations of models and can yield errors.
+Evaluating pre-trained model:   0%|          | 0/37611 [00:00<?, ?it/s]<ipython-input-9-8ea329c894e9>:209: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  audio1 = torch.tensor(audio1).to(device)
+<ipython-input-9-8ea329c894e9>:210: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  audio2 = torch.tensor(audio2).to(device)
+Evaluating pre-trained model: 100%|██████████| 37611/37611 [1:29:22<00:00,  7.01it/s]
+Pre-trained Model Evaluation on VoxCeleb1:
+EER: 20.04%
+TAR@1%FAR: 68.48%
+Identification Accuracy: 70.08%
