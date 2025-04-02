@@ -31,29 +31,34 @@ python Part4/Part_4.py
 # File Structure
 
 .
-├── Part2
-│   ├── Fine_Tuned.py
-│   ├── Fine_Tuned_Logs.py
-│   ├── Pre_Trained.py
-│   └── Pre_Trained_Logs.txt
-├── Part3
-│   ├── Part_3.py
-│   └── Part_3_Logs.txt
-└── Part4
-    ├── Part_4.py
-    └── Part_4_Logs.txt
+├── Question1
+│   ├── SU_ASSIGNMENT_2_Q1_Report.pdf
+│   ├── Part2
+│   │   ├── Fine_Tuned.py
+│   │   ├── Fine_Tuned_Logs.py
+│   │   ├── Pre_Trained.py
+│   │   └── Pre_Trained_Logs.txt
+│   ├── Part3
+│   │   ├── Part_3.py
+│   │   └── Part_3_Logs.txt
+│   └── Part4
+│       ├── Part_4.py
+│       └── Part_4_Logs.txt
+└── Question2
+    ├── su-q2.ipynb
+    └── SU_Assignment_2_Q2_Report.pdf
 ````
 # Contributing
 Contributions are welcome! Please follow these guidelines:
 
-Fork the repository.
+1) Fork the repository.
 
-Create a new branch (git checkout -b feature/YourFeature).
+2) Create a new branch (git checkout -b feature/YourFeature).
 
-Make your changes and commit them (git commit -m 'Add some feature').
+3) Make your changes and commit them (git commit -m 'Add some feature').
 
-Push to the branch (git push origin feature/YourFeature).
+4) Push to the branch (git push origin feature/YourFeature).
 
-Open a pull request.
+5) Open a pull request.
 
 For any major changes, please open an issue first to discuss what you would like to change.
