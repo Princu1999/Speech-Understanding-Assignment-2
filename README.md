@@ -1,6 +1,6 @@
 # Speech-Understanding-Assignment-2
 
-A brief description of what your project does and why it is useful. This section should provide an overview and set the context for your project.
+This repository consists all the files, logs and reports from Assignment 2.
 
 ## Table of Contents
 
