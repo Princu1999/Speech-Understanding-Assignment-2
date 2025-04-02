@@ -5,7 +5,6 @@ A brief description of what your project does and why it is useful. This section
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [File Structure](#file-structure)
 - [Contributing](#contributing)
 - [License](#license)
@@ -17,7 +16,7 @@ Describe how to install your project. Include any prerequisites, dependencies, a
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/your-username/Speech-Understanding-Assignment-2.git
 # Navigate into the project directory
 cd your-repo
 # (Optional) Install dependencies
