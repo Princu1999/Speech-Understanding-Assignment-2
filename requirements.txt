@@ -1,0 +1,11 @@
+torch
+torchaudio
+librosa
+numpy
+scikit-learn
+transformers
+tqdm
+speechbrain
+mir_eval
+pesq
+matplotlib
